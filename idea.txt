@@ -1,0 +1,3 @@
+VR Project
+
+animation-mixer="clip: idle; loop: repeat"
